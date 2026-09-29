@@ -1,0 +1,5 @@
+./build/Makefile
+./build/MemForge
+./build/CMakeCache.txt
+./build/cmake_install.cmake
+./build/CMakeFiles/*
