@@ -9,5 +9,6 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 add_executable(MemForge
     src/main.cpp
     src/Input.cpp
+    src/Output.cpp
   )
 
